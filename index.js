@@ -86,5 +86,5 @@ exports.register = function(server, options, next) {
 
 exports.register.attributes = {
   name: 'hapi-email-templates',
-  version: '0.1.0'
+  version: '0.1.1'
 };

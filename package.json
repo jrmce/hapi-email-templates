@@ -1,6 +1,6 @@
 {
   "name": "hapi-email-templates",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This plugin exposes a send method on your hapi server that allows you to send an email with a specified templates. Uses nodemailer and node-email-templates.",
   "main": "index.js",
   "scripts": {
